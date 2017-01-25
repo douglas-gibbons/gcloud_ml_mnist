@@ -22,7 +22,7 @@ and you've [set up the SDK](https://cloud.google.com/sdk/downloads):
 
 ```
 gcloud auth login
-gcloud config set projectd <your project ID>
+gcloud config set project <your project ID>
 gcloud beta ml init-project
 ```
 
